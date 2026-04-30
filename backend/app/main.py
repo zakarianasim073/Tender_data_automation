@@ -1,8 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
-from app.core.config import settings
-from app.api import boq, gpt
+from .core.config import settings
+from .api import boq, gpt
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
