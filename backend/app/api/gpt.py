@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Depends
 from pydantic import BaseModel
 from typing import List, Optional
-from app.core.gpt_client import GPTClient
-from app.core.security import get_current_user
+from ..core.gpt_client import GPTClient
+from ..core.security import get_current_user
 
 router = APIRouter(prefix="/gpt", tags=["GPT"])
 
