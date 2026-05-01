@@ -1,0 +1,15 @@
+{
+  "tender_id": "601115",
+  "zone": "C",
+  "total_items": 25,
+  "match": 0,
+  "mismatch": 0,
+  "missing": 25,
+  "above_sor": 0,
+  "below_sor": 0,
+  "risk_level": "LOW",
+  "total_boq_amount": 0.0,
+  "total_quoted_amount": 0.0,
+  "total_sor_amount": 0,
+  "overall_diff_pct": 0
+}

@@ -1,0 +1,33 @@
+=================================================================
+  BOQ RATE CHECK SUMMARY
+  Tender ID : 348388
+  Zone      : A
+=================================================================
+  Total items   : 5
+  MATCH         : 0
+  MISMATCH      : 0
+  MISSING       : 5
+  ABOVE SOR     : 0  (RED FLAG)
+  BELOW SOR     : 0  (CHECK)
+  Risk Level    : LOW
+-----------------------------------------------------------------
+  Total BOQ Amt : Tk.               0
+  Total Quoted  : Tk.               0
+  Total SOR Amt : Tk.               0
+  Overall Diff  : +0.00%
+=================================================================
+
+ITEMS REQUIRING ATTENTION:
+-----------------------------------------------------------------
+  [MISSING   ] #1 01             Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #2 02             Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #3 03             Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #4 04             Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #5 05             Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+
+=================================================================

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+node_modules/
+dist/
+build/
+.venv/
+venv/
+env/
+uploads/
+cache/
+*.log
+.DS_Store
+Thumbs.db

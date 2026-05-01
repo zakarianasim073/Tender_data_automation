@@ -1,0 +1,43 @@
+{
+  "input_folder": "D:\\Work space\\Tender_data_automation-main\\Tender_data_automation-main\\tender_engine\\input\\585452",
+  "ready_to_generate": true,
+  "missing_critical": [],
+  "missing_optional": [],
+  "items": [
+    {
+      "key": "notice",
+      "label": "Tender Notice PDF",
+      "critical": true,
+      "found": true,
+      "matched_file": "1.Notice_585452.pdf"
+    },
+    {
+      "key": "tds_1",
+      "label": "TDS Part 1 PDF",
+      "critical": true,
+      "found": true,
+      "matched_file": "1.Notice_585452.pdf"
+    },
+    {
+      "key": "tds_2",
+      "label": "TDS Part 2 PDF",
+      "critical": false,
+      "found": true,
+      "matched_file": "3.TDS_2_585452.pdf"
+    },
+    {
+      "key": "boq",
+      "label": "BOQ PDF",
+      "critical": true,
+      "found": true,
+      "matched_file": "4.BOQ_585452.pdf"
+    },
+    {
+      "key": "context",
+      "label": "Editable context.json",
+      "critical": true,
+      "found": true,
+      "matched_file": "context.json"
+    }
+  ]
+}

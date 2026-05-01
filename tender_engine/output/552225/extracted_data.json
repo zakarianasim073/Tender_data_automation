@@ -1,0 +1,504 @@
+{
+  "tender_id": "552225",
+  "invitation_ref_no": "",
+  "package_no": "",
+  "project_code": "224318500",
+  "procuring_entity": "Moulvibazar O&M Division (BWDB)",
+  "procuring_entity_short": "BWDB",
+  "executive_engineer": "",
+  "pe_address": "of Official Inviting Address : Moulvibazar. Contact details of Official Inviting Tender/Proposal : Phone No : 0861-52282 Tender/Proposal :",
+  "pe_division": "Moulvibazar O&M Division (BWDB)",
+  "work_name": "",
+  "work_name_short": "",
+  "location": "for which no claim will be entertained for cancellation of the tender/Issuance of work order. 3. Payment will be made subject to the availability of fund. No claim in this regard will be entertained. 4. Continuation of work could not be hampered by the bidder showing the cause of insufficient Budget Provision & Fund Allocation. 5. If the Tenderer(s) submit(s) any false/incorrect or forged certificate, the tender will be outright rejected and action as per PPR- 2008 will be initiated. 6. The Procuring entity reserves the right to accept or reject any or all Tenders without assigning any reason whatsoever. 7. Letter of Commitment for Banks Undertaking for Line of Credit must be submitted in the specific form PW3-7. Otherwise Tender will be non-responsive. 8. VAT/Income Taxes shall be implied as per latest circular of NBR. 9. Latest circular of CPTU & CPC of BWDB will be followed. 10.If any tenderer hide his ongiong work, tenderer is consider non-Responsive. Brief Description of Works : ML-PW-41 Bank Revetment work along the left bank at volanagar-mithipur from km 37.135 to 38.085950m with 1 nos. R/S stair in C/W Protection Project at Moulvibazar Sadar Rajnagor & Kulaura Upazilla from erosion of Manu river under Moulvibazar O & M Division BWDB Moulvibazar during the FY 2020-21 & 2021-22. Evaluation Type : Lot wise Document Available : Package wise Document Fees : Package wise Tender/Proposal Document Price (In 4000 BDT) : Mode of Payment : Payment through Bank",
+  "project_name": "Protection Project at Moulvibazar Sadar, Rajnagor & Kulaura Upazilla from erosion of Manu river.",
+  "publication_date": "",
+  "closing_date": "",
+  "start_date": "",
+  "completion_date": "",
+  "completion_date_long": "",
+  "bg_validity_date": "",
+  "document_date": "",
+  "tender_security_amount": 31.0,
+  "tender_security_amount_words": "Thirty One",
+  "tender_security_bdt": "Tk. 31.00",
+  "liquid_assets_required_lakh": 0.0,
+  "annual_turnover_required_lakh": 0.0,
+  "tender_capacity_lakh": 0.0,
+  "document_fee_bdt": 4000.0,
+  "quoted_rate_percent": 0.0,
+  "departmental_estimate": 0.0,
+  "quoted_total": 0,
+  "general_exp_years": 5,
+  "specific_exp_contracts": 1,
+  "specific_exp_value_lakh": 0.0,
+  "specific_exp_years": 5,
+  "specific_exp_nature": "",
+  "bank_name": "SBAC Bank Limited",
+  "bank_branch": "Gulshan Branch, Dhaka, Bangladesh",
+  "bank_guarantee_no": "",
+  "bg_date": "",
+  "firm_name": "M/S Hassan & Brothers",
+  "firm_address": "Mahmud Tower (9th Floor) 19, Siddique Bazar North South Road, Bongshal, Dhaka",
+  "proprietor_name": "Mahmudul Hassan",
+  "egp_email": "info@handbl.com",
+  "memo_no": "HB/",
+  "is_jv": false,
+  "jv_name": "",
+  "jv_date": "",
+  "jv_partners": [],
+  "jv_office_address": "",
+  "jv_phone": "",
+  "partner_in_charge_name": "",
+  "partner_in_charge_firm": "",
+  "equipment": [
+    {
+      "sl_no": 1,
+      "equipment_type": "Tube well",
+      "minimum_number": "2 nos"
+    },
+    {
+      "sl_no": 2,
+      "equipment_type": "4/1/2021 Create TDS/PDS Minimum Number No Equipment Type and Characteristics Required",
+      "minimum_number": "2"
+    },
+    {
+      "sl_no": 2,
+      "equipment_type": "nos",
+      "minimum_number": "3"
+    },
+    {
+      "sl_no": 2,
+      "equipment_type": "nos",
+      "minimum_number": "4"
+    },
+    {
+      "sl_no": 3,
+      "equipment_type": "cusec)",
+      "minimum_number": "2 nos"
+    },
+    {
+      "sl_no": 5,
+      "equipment_type": "Excavator Long Boom",
+      "minimum_number": "2 nos"
+    },
+    {
+      "sl_no": 6,
+      "equipment_type": "Low lift pump(2 hp)",
+      "minimum_number": "2 nos"
+    },
+    {
+      "sl_no": 7,
+      "equipment_type": "Lveling Machine",
+      "minimum_number": "2 nos"
+    },
+    {
+      "sl_no": 8,
+      "equipment_type": "Hand GPS",
+      "minimum_number": "2 nos"
+    },
+    {
+      "sl_no": 9,
+      "equipment_type": "Computer",
+      "minimum_number": "1 nos"
+    },
+    {
+      "sl_no": 10,
+      "equipment_type": "Mixer Machine",
+      "minimum_number": "10 nos"
+    },
+    {
+      "sl_no": 11,
+      "equipment_type": "Vivator Machine",
+      "minimum_number": "10 nos"
+    },
+    {
+      "sl_no": 12,
+      "equipment_type": "Boat",
+      "minimum_number": "1 nos"
+    },
+    {
+      "sl_no": 13,
+      "equipment_type": "New steel shutter for Block Manufacture",
+      "minimum_number": "15000 nos"
+    },
+    {
+      "sl_no": 14,
+      "equipment_type": "Drum truck",
+      "minimum_number": "5 nos"
+    }
+  ],
+  "manpower": [
+    {
+      "sl_no": 1,
+      "post": "Construction Engineer/Manager",
+      "qualification": "B. Sc. in Civil Engineering",
+      "nos": "1 Person",
+      "total_exp": "5 years",
+      "similar_exp": "3 years"
+    },
+    {
+      "sl_no": 2,
+      "post": "Junior Engineer /Work Supervisor",
+      "qualification": "Diploma in Civil Engineering",
+      "nos": "2 Person",
+      "total_exp": "10 years",
+      "similar_exp": "5 years"
+    },
+    {
+      "sl_no": 3,
+      "post": "Surveyor",
+      "qualification": "Diploma in Surveying",
+      "nos": "1 Person",
+      "total_exp": "4 years",
+      "similar_exp": "2 years"
+    },
+    {
+      "sl_no": 4,
+      "post": "Work Assistant",
+      "qualification": "H.S.C.",
+      "nos": "3 Person",
+      "total_exp": "5 years",
+      "similar_exp": "2 years"
+    },
+    {
+      "sl_no": 5,
+      "post": "Mixture machine operator",
+      "qualification": "N/A",
+      "nos": "2 Person",
+      "total_exp": "4 years",
+      "similar_exp": "2 years"
+    },
+    {
+      "sl_no": 6,
+      "post": "Compactor/Excavator Driver/Caterpiller Operator",
+      "qualification": "N/A",
+      "nos": "3 Person",
+      "total_exp": "5 years",
+      "similar_exp": "3 years"
+    }
+  ],
+  "boq_items": [
+    {
+      "item_no": 1,
+      "item_code": "04-\n120",
+      "description": "04-\n120",
+      "quantity": 0.0,
+      "unit": "Nos",
+      "bwdb_rate": 2.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 2,
+      "item_code": "04-\n180",
+      "description": "04-\n180",
+      "quantity": 0.0,
+      "unit": "Sqm",
+      "bwdb_rate": 19000.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 3,
+      "item_code": "16-\n100",
+      "description": "16-\n100",
+      "quantity": 0.0,
+      "unit": "Nos",
+      "bwdb_rate": 20.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 4,
+      "item_code": "MR",
+      "description": "MR",
+      "quantity": 0.0,
+      "unit": "Nos",
+      "bwdb_rate": 2.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 5,
+      "item_code": "40-\n920",
+      "description": "40-\n920",
+      "quantity": 0.0,
+      "unit": "Cum",
+      "bwdb_rate": 27977.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 7,
+      "item_code": "40-\n680",
+      "description": "40-\n680-\n30",
+      "quantity": 0.0,
+      "unit": "m",
+      "bwdb_rate": 7608.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 8,
+      "item_code": "40-\n690",
+      "description": "40-\n690-\n30",
+      "quantity": 0.0,
+      "unit": "m",
+      "bwdb_rate": 7354.4,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 9,
+      "item_code": "40-\n190",
+      "description": "40-\n190-\n35",
+      "quantity": 0.0,
+      "unit": "Nos",
+      "bwdb_rate": 47000.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 10,
+      "item_code": "40-\n190",
+      "description": "40-\n190-\n50",
+      "quantity": 0.0,
+      "unit": "Nos",
+      "bwdb_rate": 70370.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 12,
+      "item_code": "40-\n290",
+      "description": "40-\n290-\n10",
+      "quantity": 0.0,
+      "unit": "Cum",
+      "bwdb_rate": 3926.39,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 13,
+      "item_code": "40-\n290",
+      "description": "40-\n290-\n20",
+      "quantity": 0.0,
+      "unit": "Cum",
+      "bwdb_rate": 981.6,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 14,
+      "item_code": "40-\n550",
+      "description": "40-\n550-\n30",
+      "quantity": 0.0,
+      "unit": "Cum",
+      "bwdb_rate": 2221.63,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 16,
+      "item_code": "40-\n520",
+      "description": "40-\n520-\n20",
+      "quantity": 0.0,
+      "unit": "Cum",
+      "bwdb_rate": 1110.81,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 17,
+      "item_code": "40-\n520",
+      "description": "40-\n520-\n30",
+      "quantity": 0.0,
+      "unit": "Cum",
+      "bwdb_rate": 1110.81,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 18,
+      "item_code": "40-\n270",
+      "description": "40-\n270-\n10",
+      "quantity": 0.0,
+      "unit": "cum",
+      "bwdb_rate": 3103.14,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 19,
+      "item_code": "40-\n270",
+      "description": "40-\n270-\n20",
+      "quantity": 0.0,
+      "unit": "cum",
+      "bwdb_rate": 775.79,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 20,
+      "item_code": "28-\n120",
+      "description": "28-\n120-\n20",
+      "quantity": 0.0,
+      "unit": "Cum",
+      "bwdb_rate": 23.5,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 21,
+      "item_code": "76-\n120",
+      "description": "76-\n120-\n10",
+      "quantity": 0.0,
+      "unit": "Kg",
+      "bwdb_rate": 1557.33,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 22,
+      "item_code": "28-\n200",
+      "description": "28-\n200-\n10",
+      "quantity": 0.0,
+      "unit": "Cum",
+      "bwdb_rate": 24.11,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 23,
+      "item_code": "16-\n500",
+      "description": "16-\n500",
+      "quantity": 0.0,
+      "unit": "Cum",
+      "bwdb_rate": 13.65,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 25,
+      "item_code": "24-\n100",
+      "description": "24-\n100-\n10",
+      "quantity": 0.0,
+      "unit": "Sqm",
+      "bwdb_rate": 22.63,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 26,
+      "item_code": "72-\n260",
+      "description": "72-\n260-\n10",
+      "quantity": 0.0,
+      "unit": "Sqm",
+      "bwdb_rate": 22.63,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 27,
+      "item_code": "16-\n220",
+      "description": "16-\n220-\n30",
+      "quantity": 0.0,
+      "unit": "cum",
+      "bwdb_rate": 36614.4,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 28,
+      "item_code": "48-\n100",
+      "description": "48-\n100",
+      "quantity": 0.0,
+      "unit": "Sqm",
+      "bwdb_rate": 15976.5,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 29,
+      "item_code": "04-\n710",
+      "description": "04-\n710",
+      "quantity": 0.0,
+      "unit": "Sqm",
+      "bwdb_rate": 23750.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    }
+  ],
+  "rate_schedule_ref": "BWDB, 2019-20 Rate Schedule",
+  "work_activities": [],
+  "work_start_year": 2021,
+  "work_end_year": 2022,
+  "work_months": [
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun"
+  ]
+}

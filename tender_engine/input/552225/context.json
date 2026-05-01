@@ -1,0 +1,55 @@
+{
+  "_info": "Editable tender-specific values. These override auto-extracted PDF data when generating documents.",
+  "tender_id": "552225",
+  "zone": "A",
+
+  "invitation_ref_no": "",
+  "package_no": "",
+  "work_name": "",
+  "location": "",
+  "procuring_entity": "",
+  "executive_engineer": "",
+  "pe_address": "",
+  "start_date": "",
+  "completion_date": "",
+  "closing_date": "",
+  "publication_date": "",
+  "tender_security_amount": 0,
+
+  "bg_date": "",
+  "bg_validity_date": "",
+  "bank_guarantee_no": "",
+  "memo_no": "HB/____",
+  "document_date": "",
+
+  "firm_name": "M/S Hassan & Brothers",
+  "firm_address": "Mahmud Tower (9th Floor) 19, Siddique Bazar North South Road, Bongshal, Dhaka",
+  "proprietor_name": "Mahmudul Hassan",
+  "egp_email": "info@handbl.com",
+  "bank_name": "SBAC Bank Limited",
+  "bank_branch": "Gulshan Branch, Dhaka, Bangladesh",
+
+  "is_jv": false,
+  "jv_name": "",
+  "jv_date": "",
+  "jv_office_address": "",
+  "jv_phone": "",
+  "partner_in_charge_name": "",
+  "partner_in_charge_firm": "",
+
+  "work_months": ["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+
+  "generate_docs": {
+    "bg_hb": true,
+    "bg_credit_line": true,
+    "equipment_decl": true,
+    "manpower_decl": true,
+    "methodology": true,
+    "work_plan": true,
+    "boq_excel": true,
+    "rate_check": true,
+    "summary": true,
+    "jv_deed": false,
+    "jv_poa": false
+  }
+}

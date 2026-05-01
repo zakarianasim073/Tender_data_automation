@@ -1,0 +1,585 @@
+{
+  "tender_id": "585452",
+  "invitation_ref_no": "T-2/2018, Dated: 08-06-2021",
+  "package_no": "DCP-Bor-RBP-08",
+  "project_code": "224334000",
+  "procuring_entity": "Bhola O&M Division-1",
+  "procuring_entity_short": "BWDB",
+  "executive_engineer": "Md. Hasanuzzaman",
+  "pe_address": "Bhola",
+  "pe_division": "Bhola O&M Division-1",
+  "work_name": "Bank Protection work from km 44.650 to km 44.800 equal to 0.150 km in connection with \"Protection of Daulatkhan Pourashava, Chokighat and other more vulnerable area from the erosion of the Meghna river in Bhola District\" project under Bhola O&M Division-I, BWDB, Bhola.",
+  "work_name_short": "Bank Protection work from km 44.650 to km 44.800 equal to 0.150 km in connection...",
+  "location": "Borhanuddin",
+  "project_name": "Protection of Daulatkhan Pourashava, Chokighat and other more vulnerable area from the erosion of the Meghna river in Bhola District.",
+  "publication_date": "09-Jun-2021",
+  "closing_date": "12-Jul-2021",
+  "start_date": "01-Sep-2021",
+  "completion_date": "28-Feb-2023",
+  "completion_date_long": "28th February 2023",
+  "bg_validity_date": "28-July-2023",
+  "document_date": "12-07-2021",
+  "tender_security_amount": 3500000.0,
+  "tender_security_amount_words": "Thirty Five Lac",
+  "tender_security_bdt": "Tk. 35,00,000.00",
+  "liquid_assets_required_lakh": 1720.0,
+  "annual_turnover_required_lakh": 1720.0,
+  "tender_capacity_lakh": 1250.0,
+  "document_fee_bdt": 4000.0,
+  "quoted_rate_percent": 0.0,
+  "departmental_estimate": 0.0,
+  "quoted_total": 0,
+  "general_exp_years": 5,
+  "specific_exp_contracts": 1,
+  "specific_exp_value_lakh": 860.0,
+  "specific_exp_years": 5,
+  "specific_exp_nature": "Spur, Groyne, Revetment Work etc. should be considered as similar works",
+  "bank_name": "SBAC Bank Limited",
+  "bank_branch": "Gulshan Branch, Dhaka, Bangladesh",
+  "bank_guarantee_no": "",
+  "bg_date": "12-07-2021",
+  "firm_name": "M/S Hassan & Brothers",
+  "firm_address": "Mahmud Tower (9th Floor) 19, Siddique Bazar North South Road, Bongshal, Dhaka",
+  "proprietor_name": "Mahmudul Hassan",
+  "egp_email": "info@handbl.com",
+  "memo_no": "HB/____",
+  "is_jv": false,
+  "jv_name": "",
+  "jv_date": "",
+  "jv_partners": [],
+  "jv_office_address": "",
+  "jv_phone": "",
+  "partner_in_charge_name": "",
+  "partner_in_charge_firm": "",
+  "equipment": [
+    {
+      "sl_no": 1,
+      "equipment_type": "Mixture Machine",
+      "minimum_number": "6 nos"
+    },
+    {
+      "sl_no": 2,
+      "equipment_type": "Concrete Vibrator",
+      "minimum_number": "8 nos"
+    },
+    {
+      "sl_no": 3,
+      "equipment_type": "Nozzle -1.50 in",
+      "minimum_number": "12 nos"
+    },
+    {
+      "sl_no": 4,
+      "equipment_type": "Water Measuring Instrument",
+      "minimum_number": "4 nos"
+    },
+    {
+      "sl_no": 5,
+      "equipment_type": "Concrete Cylinder Mold",
+      "minimum_number": "9 nos"
+    },
+    {
+      "sl_no": 6,
+      "equipment_type": "Slump Test Cone",
+      "minimum_number": "3 nos"
+    },
+    {
+      "sl_no": 7,
+      "equipment_type": "Water Pump",
+      "minimum_number": "10 nos"
+    },
+    {
+      "sl_no": 8,
+      "equipment_type": "Dump Truck",
+      "minimum_number": "1 no"
+    },
+    {
+      "sl_no": 9,
+      "equipment_type": "Pay Loader",
+      "minimum_number": "1 no"
+    },
+    {
+      "sl_no": 10,
+      "equipment_type": "Excavator",
+      "minimum_number": "2 nos"
+    },
+    {
+      "sl_no": 11,
+      "equipment_type": "Power Driven Country Boat",
+      "minimum_number": "1 no"
+    },
+    {
+      "sl_no": 12,
+      "equipment_type": "Generator, Minimum 20 kw capacity for site electrification",
+      "minimum_number": "3 sets"
+    },
+    {
+      "sl_no": 13,
+      "equipment_type": "Leveling Instrument",
+      "minimum_number": "2 sets"
+    },
+    {
+      "sl_no": 14,
+      "equipment_type": "Digital Camera 1 no",
+      "minimum_number": "1 no"
+    },
+    {
+      "sl_no": 15,
+      "equipment_type": "Hand hold Geo-bag sewing machine ( Double needle)",
+      "minimum_number": "6 nos"
+    },
+    {
+      "sl_no": 16,
+      "equipment_type": "All others equipment required as and when necessary",
+      "minimum_number": "As required"
+    }
+  ],
+  "manpower": [
+    {
+      "sl_no": 1,
+      "post": "Construction Project Manager",
+      "qualification": "Graduate",
+      "nos": "1 Person",
+      "total_exp": "7 Years",
+      "similar_exp": "3 Years"
+    },
+    {
+      "sl_no": 2,
+      "post": "Project Engineer",
+      "qualification": "B.Sc Engineer (Civil)",
+      "nos": "1 Person",
+      "total_exp": "5 Years",
+      "similar_exp": "1 Years"
+    },
+    {
+      "sl_no": 3,
+      "post": "Site Engineer",
+      "qualification": "Diploma in Civil",
+      "nos": "1 Person",
+      "total_exp": "3 Years",
+      "similar_exp": "1 Years"
+    },
+    {
+      "sl_no": 4,
+      "post": "Surveyor",
+      "qualification": "Diploma in Surveying",
+      "nos": "2 Person",
+      "total_exp": "3 Years",
+      "similar_exp": "1 Years"
+    },
+    {
+      "sl_no": 5,
+      "post": "Supervisor",
+      "qualification": "N/A",
+      "nos": "6 Person",
+      "total_exp": "3 Years",
+      "similar_exp": "1 Years"
+    }
+  ],
+  "boq_items": [
+    {
+      "item_no": 1,
+      "item_code": "04-180",
+      "description": "Site preparation by manually removing all miscellaneous objectional materials from entire site and removing soil up to 15 cm depth including uprooting stumps, jungle clearing, leveling dressing etc. complete as per direction of Engineer in charge.",
+      "quantity": 15000.0,
+      "unit": "sqm",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 2,
+      "item_code": "16-100",
+      "description": "Erection of bamboo profile with full bamboo posts and pegs not less than 60mm in diameter and coir strings etc. complete as per direction of Engineer in charge.",
+      "quantity": 16.0,
+      "unit": "each",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 3,
+      "item_code": "16-450",
+      "description": "Earth work by manual labour with clayey soil (minimum 30% clay, 0-40% silt and 0-30% sand) in construction of cross bundh/ ring bundh as per design and specification with all leads and lifts, throwing the earth in layers not exceeding 150mm in thickness, including breaking clods, rough dressing, clearing the jungle, removing stumps, dug bailing and 75mm cambering etc. complete as per direction of Engineer in charge.",
+      "quantity": 2160.0,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 4,
+      "item_code": "16-720-10",
+      "description": "Filling ditch/pond/channel/khal etc or land development/improvement by dredged earth from river bed (all kind of soil but excluding organic material) , carried by Bulkhead/cargo/boat or any other mean, loading and unloading/Disposing/placing the dredged materials in the designated area upto 1 km from river bank by bulkhead dredger including , maintaining slopes, levelling and dressing in layers upto finished level with all lifts & leads etc. all complete as per direction of the Engineer in charge. Bulkhead/cargo/boat or any other means: within 1 km along the river",
+      "quantity": 9720.0,
+      "unit": "cum/km",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 5,
+      "item_code": "16-720-20",
+      "description": "Filling ditch/pond/channel/khal etc or land development/improvement by dredged earth from river bed (all kind of soil but excluding organic material) , carried by Bulkhead/cargo/boat or any other mean, loading and unloading/Disposing/placing the dredged materials in the designated area upto 1 km from river bank by bulkhead dredger including , maintaining slopes, levelling and dressing in layers upto finished level with all lifts & leads etc. all complete as per direction of the Engineer in charge. Bulkhead/cargo/boat or any other means: 2nd km and above",
+      "quantity": 145800.0,
+      "unit": "cum/km",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 6,
+      "item_code": "40-360-10",
+      "description": "[Dumping with Barge & Total Station] Supplying, filling and dumping of geo-textile bags of different sizes and capacity at project/work site, making with standard geo-textile fabric (100% Polypropylene Fabric, mass>= 400gm/m², unit weight : 855 Kg/m3 to 946 Kg/m3, EOS<=0.075 mm) and sewing in accordance with the drawing and Technical Specifications of BWDB and Schedule of Rates of BWDB, protecting the geotextile bags from UV ray or any other damages, filling with sand (dry and minimum 80% sand must be retained on sieve no 100), sewing along one transverse (top) side after filling, staking in measurable/countable stakes, marking with synthetic",
+      "quantity": 22536.0,
+      "unit": "nos",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 7,
+      "item_code": "40-170-15",
+      "description": "Manufacturing and supplying C.C. blocks in leanest mix. 1:3:5.5 with cement, sand (FM>=1.5) and Stone Chips (40mm down graded) to attain a 28 days cylinder strength of 10.5 N/mm² including grading, washing stone chips, mixing, laying in forms, consolidation, curing for at least 21 days, including preparation of platform, shuttering and stacking in measurable stacks etc. complete including supply of all materials (steel shutter to be used) as per direction of Engineer in charge. Block Size: 50cmx50cmx50cm",
+      "quantity": 33900.0,
+      "unit": "nos",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 8,
+      "item_code": "40-170-35",
+      "description": "Manufacturing and supplying C.C. blocks in leanest mix. 1:3:5.5 with cement, sand (FM>=1.5) and Stone Chips (40mm down graded) to attain a 28 days cylinder strength of 10.5 N/mm² including grading, washing stone chips, mixing, laying in forms, consolidation, curing for at least 21 days, including preparation of platform, shuttering and stacking in measurable stacks etc. complete including supply of all materials (steel shutter to be used) as per direction of Engineer in charge. Block Size: 40cmx40cmx40cm",
+      "quantity": 42188.0,
+      "unit": "nos",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 9,
+      "item_code": "40-170-30",
+      "description": "Manufacturing and supplying C.C. blocks in leanest mix. 1:3:5.5 with cement, sand (FM>=1.5) and Stone Chips (40mm down graded) to attain a 28 days cylinder strength of 10.5 N/mm² including grading, washing stone chips, mixing, laying in forms, consolidation, curing for at least 21 days, including preparation of platform, shuttering and stacking in measurable stacks etc. complete including supply of all materials (steel shutter to be used) as per direction of Engineer in charge. Block Size: 45cmx45cmx30cm",
+      "quantity": 3640.0,
+      "unit": "nos",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 10,
+      "item_code": "40-380-10",
+      "description": "Supplying filling and placing of geo-textile bags of different sizes and capacity at project/work site, making with standard geo-textile fabric (100% Polypropylene fabric, mass>= 400gm/m², unit weight : 855 Kg/m3 to 946 Kg/m3, EOS<=0.075 mm) and sewing in accordance with the drawing and Technical Specifications of BWDB and Schedule of Rates of BWDB, filling with sand (dry and minimum 80% sand must be retained on sieve no 100), sewing along one transverse (top) side after filling, staking in measurable/countable stakes, marking by synthetic enamel paint during counting, placing in position as per approved drawing including levelling, dressing and preparation of base, cost of all materials & equipments and its mobilization, labour, incidental charges etc. complete as per technical specification, approved design and direction of Engineer in charge. [fill volume and weight will be measured after filling with dry sand]\" Geo-bag; inner size:1200mmx950mm, outer size:1250mmx1000mm, geo-fabric th.=>3.0mm, Fill Vol: 0.1664cum; wt: 250kg",
+      "quantity": 41007.0,
+      "unit": "nos",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 11,
+      "item_code": "40-320-10",
+      "description": "Supplying of geo-textile bags (empty) of different sizes and capacity at project/work site, making the bag with standard Geo-Textile fabric (100% Polypropylene Fabric, mass>= 400gm/m², unit weight: 855 Kg/m3 to 946 Kg/m3, EOS<=0.075 mm) and sewing in accordance with the detailed drawing and Technical Specifications included in the Tender Document and Schedule of Rates of BWDB, protecting the geo-textile bags form UV ray or any other damages including cost of all materials, labours, incidental charges etc. complete as per direction of Engineer in charge. Geo-bag; inner size:1200mmx950mm, outer size:1250mmx1000mm, geo-fabric th.=>3.0mm, Fill Vol: 0.1664cum; wt: 250kg",
+      "quantity": 4056.0,
+      "unit": "nos",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 12,
+      "item_code": "16-500",
+      "description": "Earth work in excavation of foundation trenches in all kinds of soils including levelling, dressing, placing, removal of spoils to a safe distance with initial lead of 30m and lift of 1.5m as per direction of Engineer in charge.",
+      "quantity": 19330.34,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 13,
+      "item_code": "16-170",
+      "description": "Extra rate for every additional lift of 1.0m or part thereof beyond the initial lift of 1.5m (30cm neglected) for all kinds of earth work.",
+      "quantity": 19200.0,
+      "unit": "pltcum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 14,
+      "item_code": "40-550-30",
+      "description": "Supplying and laying sand as filter layers as per specific size ranges and gradation including preparation of surface, compacting in layer etc. complete with supply of all materials and as per direction of Engineer in charge.",
+      "quantity": 70.5,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 15,
+      "item_code": "40-500-40",
+      "description": "Supplying and placing non-woven needle punched type geotextile fabric (100% Polypropylene Fabric, unit weight : 855 Kg/m3 to 946 Kg/m3) as filter materials of elongation at maximum force machine direction (MD) >=60% and <= 100 % , elongation at maximum force (CMD) => 40% and <= 100% ,horizontal and vertical permeability (under 2 kn/m² pressure)=>2x10E-3 m/sec. for effective erosion protection in hydraulic structures/river training works including local handling, placing in position, providing machine seamed joints (with 100% polypropylene or nylon thread) or 35cm lap in dry condition or minimum 100cm lap under water including protecting the geotextile material from UV ray and from any other damages including supply of all materials, labours, equipment's etc. complete as per direction of Engineer in charge. (Geotextile delivered at site should be certified by ISO and clearly labelled with brand name and grade printed at regular intervals across the body of the fabric). Mass =>400 gm/m², thickness(Under 2 kpa pressure) =>3.00 mm, EoS<=0.08mm, strip tensile strength =>23 kn/m, grab strength =>1500 N, CBR puncture resistance =>3800 N.",
+      "quantity": 945.0,
+      "unit": "sqm",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 16,
+      "item_code": "40-520-20",
+      "description": "Supplying and laying dry 1st class or pick jhama chips as filter in two layers (top and bottom) as per specific size, range and gradation, including breaking chips, grading, preparation of surface, compacting each layer etc. complete with supply of all materials and as per direction of Engineer in charge: Well graded between 40mm to 20mm size.",
+      "quantity": 35.25,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 17,
+      "item_code": "40-520-30",
+      "description": "Supplying and laying dry 1st class or pick jhama chips as filter in two layers (top and bottom) as per specific size, range and gradation, including breaking chips, grading, preparation of surface, compacting each layer etc. complete with supply of all materials and as per direction of Engineer in charge: Well graded between 20mm to 5mm size. (Combination of sub-item 20 & 30 shall be used)",
+      "quantity": 35.25,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 18,
+      "item_code": "40-270-10",
+      "description": "Labour charge for protective works in laying CC blocks of different sizes including preparation of base, watering and ramming of base etc. complete as per direction of Engineer in charge. Within 200 m.",
+      "quantity": 2863.46,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 19,
+      "item_code": "40-270-20",
+      "description": "Labour charge for protective works in laying CC blocks of different sizes including preparation of base, watering and ramming of base etc. complete as per direction of Engineer in charge. 200 m to 500 m",
+      "quantity": 4295.2,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 20,
+      "item_code": "04-710",
+      "description": "Temporary lease of land for 1 (one) year with necessary compensation for crops or this installation on land for site office, material yard, casting yard, staking yard etc. complete as per direction of Engineer in charge.",
+      "quantity": 54000.0,
+      "unit": "sqm",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 21,
+      "item_code": "16-550",
+      "description": "Back filling in hydraulic structures and slope building in protective works including all leads and lifts with selected local soil in layer of 150mm including watering, ramming etc. complete compacted to 20% relative density by compactor or any other suitable method as per direction of Engineer in charge.",
+      "quantity": 620.5,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 22,
+      "item_code": "28-120-20",
+      "description": "Cement concrete work in leanest mix. 1:3:6 with sand of FM>=1.5, in foundation or floor including breaking, screening, grading and washing aggregates with clear water, mixing, laying in position, consolidation to levels, curing, including supply of all materials, excluding the cost of formworks etc. complete as per direction of Engineer in charge. With 25mm down graded stone chips.",
+      "quantity": 10.1,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 23,
+      "item_code": "28-200-10",
+      "description": "Reinforced cement concrete work in leanest mix. 1:1.5:3, with 20mm down graded coarse aggregates and sand of FM>2.0 to FM<=2.5, to attain a minimum 28 day cylinder strength of 22.0 N/mm², including breaking, screening, grading, washing aggregates with clean water, mixing, laying in forms, consolidation to levels, curing, including supply of all materials, excluding cost of M.S. work for reinforcements and formworks etc. complete and as per direction of Engineer in charge. with stone chips",
+      "quantity": 36.314,
+      "unit": "cum",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 24,
+      "item_code": "76-120-10",
+      "description": "M.S. Work for reinforcement with deformed M.S. bar, fy=400 N/mm², (made from billet) in RCC works, including local handling, cutting, forging, bending, cleaning and fabrication with supply of deformed M.S. bar in different sizes and binding with 22 to 18 gages G.I. wire etc. complete including the cost of all materials as per direction of Engineer in charge. 8mm dia to 30mm dia.",
+      "quantity": 5395.93,
+      "unit": "kg",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 25,
+      "item_code": "36-100-10",
+      "description": "Form work for centering and water tight shuttering as per drawing with minimum 25mm thick wooden plank and batten (minimum size 75mmx50mm), struts and props including covering the surface with 28 BWG plain GI sheet, fitting, fixing by nails, tie rods and nuts & bolts to desired level and shape and removing the forms etc. after specified period including the cost of all materials as per direction of Engineer in charge. Vertical and inclined walls, columns, piers with 60-80mm dia barrack bamboo props.",
+      "quantity": 533.22,
+      "unit": "sqm",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 26,
+      "item_code": "24-130-10",
+      "description": "Minimum 12mm thick sand cement plaster, (sand of FM>=1.30) in ground floor, including scaffolding, raking out joints, making sharp edges and corners, cleaning the surface, curing for at least 7 days etc. complete including the cost of all materials and as per direction of Engineer in charge. Proportion 1:4.",
+      "quantity": 127.18,
+      "unit": "sqm",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 27,
+      "item_code": "64-160-10",
+      "description": "Supplying, fitting and fixing glazed tiles of approved size, colour, quality and design in floors/ walls upto required length, breadth and height, set in 20mm thick cement mortar (1:4), including cutting & edging the tiles where necessary filling the joints by white cement and matching colour including the cost of all materials etc. complete as per direction of Engineer in charge. Various size (in walls).",
+      "quantity": 2949.28,
+      "unit": "sqm",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 28,
+      "item_code": "64-160-20",
+      "description": "Supplying, fitting and fixing glazed tiles of approved size, colour, quality and design in floors/ walls upto required length, breadth and height, set in 20mm thick cement mortar (1:4), including cutting & edging the tiles where necessary filling the joints by white cement and matching colour including the cost of all materials etc. complete as per direction of Engineer in charge. Various size (on floors).",
+      "quantity": 516.73,
+      "unit": "sqm",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 29,
+      "item_code": "72-260-20",
+      "description": "Weather Coat of approved quality and colour (delivered from authorized local agent of the Manufacturer in a sealed container) on exterior surface applying as per manufacturer instructions including cleaning the surface with wire brush, provision of necessary scafolding, cleaning doors & windows, ventilators by washing including cost of water, electricity & other charges etc. complete in all respect as per direction of Engineer in charge. Applying of Weather coats to exterior surface: 3 coats",
+      "quantity": 226.09,
+      "unit": "sqm",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 30,
+      "item_code": "MR",
+      "description": "Information written in both side of KM post and Name plate as per direction of EIC",
+      "quantity": 3.0,
+      "unit": "nos",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 31,
+      "item_code": "10-140-40",
+      "description": "River morphological Data Collection/Bathymetric and river bank topography survey for river Section (Section width 251m to 350m),including cost of all necessary equipment(level Machine,Hand GPS,DGPS,Survey Vassel etc.)Necessary Personnel (river Specialist for data processing with survey software and prepare necessary Table,Graph and Morphological Parameter calculation,surveyor & Unskilled labour for field data collection),Accomodation Transportation from headquarter to site and site movement and shaded boat for bathymetric survey for field survey team including necessary fuels and lubricants,other necessary auxiliry items such as survey flags,pegs with provision for submission of report in hard binded copies(at least 6 copies requried) soft copy and raw survey data with provision of 10% random Re-Survey for data consintancy checking as per direction of engineer in-Charge. section Interval : 61m to 100m",
+      "quantity": 330.0,
+      "unit": "nos",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    },
+    {
+      "item_no": 32,
+      "item_code": "04-700-10",
+      "description": "Erection and maintenance of site office and removal of the same after completion of work as per approved plans & drawings for the use of the Engineer-in-charge & his staff, Task force and field laboratory with adequate foundation, brick walls, acceptable outside & inside wall surface, concrete floor with floor tiles, false ceiling of gypsum board, windows are to be glazed & provided with steel grill & screen/blinds, doors with approved locks, furniture & fittings of approved quality, equipment & plant of approved quality, electricity, running water, sewerage, security fencing, 5 KVA stand-bye generator, IBM compatible PC with monitor, uninterruptible power supply (UPS), LaserJet printer (minimum 25 ppm), first aid-box, safety helmet, level/theodolite/EDM, consumables, stationeries, day & night guards & a tea boy and site office shall be ready for occupation by the Engineer-in-charge within 28 days of commencement of work, etc. complete as per direction of Engineer-in-charge. (This is a time related item; proportionate payment for this item shall be made distributing in each bill on the basis of percentage progress of the whole works under contract)",
+      "quantity": 1.0,
+      "unit": "no",
+      "bwdb_rate": 0.0,
+      "bwdb_amount": 0.0,
+      "quoted_rate": 0.0,
+      "quoted_amount": 0.0,
+      "percent_diff": 0.0
+    }
+  ],
+  "rate_schedule_ref": "BWDB, 2022 Rate Schedule (Revised Feb 2023)",
+  "work_activities": [],
+  "work_start_year": 2021,
+  "work_end_year": 2023,
+  "work_months": [
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun"
+  ]
+}

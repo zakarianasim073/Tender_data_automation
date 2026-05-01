@@ -1,0 +1,47 @@
+=================================================================
+  BOQ RATE CHECK SUMMARY
+  Tender ID : 585452
+  Zone      : A
+=================================================================
+  Total items   : 32
+  MATCH         : 20
+  MISMATCH      : 0
+  MISSING       : 12
+  ABOVE SOR     : 0  (RED FLAG)
+  BELOW SOR     : 0  (CHECK)
+  Risk Level    : LOW
+-----------------------------------------------------------------
+  Total BOQ Amt : Tk.     135,428,995
+  Total Quoted  : Tk.     135,428,995
+  Total SOR Amt : Tk.     135,428,995
+  Overall Diff  : +0.00%
+=================================================================
+
+ITEMS REQUIRING ATTENTION:
+-----------------------------------------------------------------
+  [MISSING   ] #12 16-500         Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #20 04-710         Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #22 28-120-20      Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #23 28-200-10      Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #24 76-120-10      Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #25 36-100-10      Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #26 24-130-10      Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #27 64-160-10      Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #28 64-160-20      Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #29 72-260-20      Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #30 MR             Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #32 04-700-10      Quoted:      0.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+
+=================================================================

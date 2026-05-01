@@ -1,0 +1,74 @@
+{
+  "tender_id": "348388",
+  "source": "BWDB",
+  "zone": "A",
+  "suggestion_count": 5,
+  "excel_path": "D:\\Work space\\Tender_data_automation-main\\Tender_data_automation-main\\tender_engine\\output\\348388\\SOR_Suggestions-348388.xlsx",
+  "rows": [
+    {
+      "item_no": 1,
+      "boq_code": "01",
+      "boq_description": "Basic dredging by operating dredger with necessary arrangment by Tug boat/Work boat disposing dredged earth upto 1.5 km, positioning the cutter of dredger at designed level by maintaining bathematric prework and post work survey including the cost of mobilization and demobilization of dredger with houseboat by Tug boat/Work boat, fitting/fixing & maintenance of all necessary equipments, Supplying of necessary fuels & lubricants, shore pipes & floating pipes, anciliary dredging materials etc. complete as per direction of engineer in charge. (Not for BWDB Dredger)\" Basic dredging work by 18\" dredger",
+      "boq_unit": "cum",
+      "quantity": 3552818.781,
+      "suggested_code": "90-100-50",
+      "suggested_description": "& chain hoist and cleaning with water, cost of fitting/fixing & maintenance of all necessary equipment, supplying of necessary fuels & lubricants, shore pipes & floating pipes, ancillary materials and charges etc. complete as per direction of enginee",
+      "suggested_unit": "cum",
+      "sor_rate": 194.36,
+      "confidence": 0.494,
+      "status": "weak"
+    },
+    {
+      "item_no": 2,
+      "boq_code": "02",
+      "boq_description": "Earth work by Mechanical Excavator (Long Boom ) in constructing/resectioning of embankment/canal bank/road etc. with clayey soil (minimum 30% clay, 0-40% silt and 0-30% sand) within the initial lead of 30m, and all lifts including throwing the spoils to profiles in layers not exceeding 150mm in thickness, clod breaking upto a maximum size of 100mm, benching the side slopes, stripping/ ploughing the base of embankment and borrow pit area, dug bailing, cutting trees upto 200mm girth, with uprooting stumps, clearing jungles, rough dressing and 150mm cambering at the centre of the crest etc.complete as per specification and direction of Engineer in charge.\" Embankment by mechanical excavator, ht: 0 to 4 m",
+      "boq_unit": "cum",
+      "quantity": 228429.19,
+      "suggested_code": "16-700-00",
+      "suggested_description": "initial lead of 300m and all lifts including throwing the spoils to profile in layers with clod breaking to a maximum size of 100mm, removing roots & stumps of trees of girth upto 200mm from the ground etc. complete as per direction of Engineer in ch",
+      "suggested_unit": "cum",
+      "sor_rate": 185.67,
+      "confidence": 0.401,
+      "status": "weak"
+    },
+    {
+      "item_no": 3,
+      "boq_code": "03",
+      "boq_description": "Polythene sheet : (1.0 kg per 6.50 sqm)",
+      "boq_unit": "sqm",
+      "quantity": 90958.5,
+      "suggested_code": "20-455-00",
+      "suggested_description": "Polythene Sheet : (1.0 kg per 6.50 sqm).",
+      "suggested_unit": "",
+      "sor_rate": 30.0,
+      "confidence": 1.0,
+      "status": "strong"
+    },
+    {
+      "item_no": 4,
+      "boq_code": "04",
+      "boq_description": "Construction and dismantelling of outlet for dumping and disposal of water from disposal area by 3 Nos 12 m long shore pipe of same dia of dredger, placing on 125 kg sand-filled geobag at the outer end of pipe with polytheen sheet, etc. complete including the cost of all materials as per direction of engineering in charge. (Not for BWDB Dredger)\" Construction and dismantling of OUTLET for 18\" dredger.",
+      "boq_unit": "each",
+      "quantity": 358.0,
+      "suggested_code": "40-800-00",
+      "suggested_description": "Rubber Gasket for Shore Pipe of 20\" Dredger: Inner Dia - 500 mm, Outer Dia - 650mm and Thickness - 6mm",
+      "suggested_unit": "no",
+      "sor_rate": 500.0,
+      "confidence": 0.299,
+      "status": "weak"
+    },
+    {
+      "item_no": 5,
+      "boq_code": "05",
+      "boq_description": "Supplying filling and placing of geo-textile bags of different sizes and capacity at project/work site, making with standard geo-textile fabric (100% Polypropylene fabric, mass>= 400gm/m², unit weight : 855 Kg/m3 to 946 Kg/m3, EOS<=0.075 mm) and sewing in accordance with the drawing and Technical Specifications of BWDB and Schedule of Rates of BWDB, filling with sand (dry and minimum 80% sand must be retained on sieve no 100), sewing along one transverse (top) side after filling, staking in measurable/countable stakes, marking by synthetic enamel paint during counting, placing in position as per approved drawing including levelling, dressing and preparation of base, cost of all materials & equipments and its mobilization, labour, incidental charges etc. complete as per technical specification, approved design and direction of Engineer in charge. [fill volume and weight will be measured after filling with dry sand]\" Geo-bag; inner size:950mmx750mm, outer size:1000mmx800mm geo-fabric th.=>3.0mm, Fill Vol: 0.0840cum; wt: 125kg",
+      "boq_unit": "each",
+      "quantity": 2864.0,
+      "suggested_code": "40-180-05",
+      "suggested_description": "Item Code Description of Item Unit finishing with sand cement mortar, shuttering (steel shutter to be used) and stacking in measurable stacks, cost of all materials and charges, etc. complete as per technical specification, approved design and direct",
+      "suggested_unit": "each",
+      "sor_rate": 978.15,
+      "confidence": 0.32,
+      "status": "weak"
+    }
+  ]
+}

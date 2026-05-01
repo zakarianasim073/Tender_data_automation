@@ -1,0 +1,15 @@
+{
+  "tender_id": "585452",
+  "zone": "A",
+  "total_items": 32,
+  "match": 20,
+  "mismatch": 0,
+  "missing": 12,
+  "above_sor": 0,
+  "below_sor": 0,
+  "risk_level": "LOW",
+  "total_boq_amount": 135428994.59,
+  "total_quoted_amount": 135428994.59,
+  "total_sor_amount": 135428994.59,
+  "overall_diff_pct": 0.0
+}

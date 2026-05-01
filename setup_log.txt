@@ -1,0 +1,53 @@
+
+=== STEP 1: Copy PDFs ===
+  Copied: 1. Notice_541339.pdf
+  Copied: 2. TDS_1_541339.pdf
+  Copied: 3. TDS_2_541339.pdf
+  Copied: 4. BOQ_541339.pdf
+
+=== STEP 2: Build DOCX templates ===
+  Copied as-is (template): BG_HB_template.docx
+  Copied as-is (template): BG_Credit_Line_template.docx
+  Copied as-is (template): Equipment_Declaration_template.docx
+  Copied as-is (template): Manpower_Declaration_template.docx
+  Copied as-is (template): Methodology_template.docx
+  Copied as-is (template): JV_DEED_template.docx
+  Copied as-is (template): JV_POA_template.docx
+
+=== STEP 3: Run pipeline ===
+
+[PARSING] PDFs from: D:\Work space\Tender_data_automation-main\Tender_data_automation-main\tender_engine\input\541339
+   Notice : 1. Notice_541339.pdf
+   TDS 1  : 2. TDS_1_541339.pdf
+   TDS 2  : 3. TDS_2_541339.pdf
+   BOQ    : 4. BOQ_541339.pdf
+
+[OUTPUT] Folder: D:\Work space\Tender_data_automation-main\Tender_data_automation-main\tender_engine\output\541339
+  [OK] Saved: extracted_data.json
+
+[EXCEL] Generating Excel files...
+  [OK] Generated: BOQ-541339.xlsx
+  [OK] Work Plan generated: 7. Work_Plan-541339.xlsx
+
+[DOCX] Generating DOCX files...
+  [OK] Generated: 2. BG_HB_SBAC-541339.docx
+  [OK] Generated: 3. BG_Credit_Line_SBAC-541339.docx
+  [OK] Generated: 4. Equipment_Declaration-541339.docx
+  [OK] Generated: 5. Manpower_Declaration-541339.docx
+  [OK] Generated: 6. Methodology-541339.docx
+
+============================================================
+  Output folder: D:\Work space\Tender_data_automation-main\Tender_data_automation-main\tender_engine\output\541339
+  8 file(s) generated:
+    >> 2. BG_HB_SBAC-541339.docx  (23.0 KB)
+    >> 3. BG_Credit_Line_SBAC-541339.docx  (80.0 KB)
+    >> 4. Equipment_Declaration-541339.docx  (87.5 KB)
+    >> 5. Manpower_Declaration-541339.docx  (90.3 KB)
+    >> 6. Methodology-541339.docx  (94.0 KB)
+    >> 7. Work_Plan-541339.xlsx  (6.1 KB)
+    >> BOQ-541339.xlsx  (7.0 KB)
+    >> extracted_data.json  (11.4 KB)
+============================================================
+
+
+=== DONE ===

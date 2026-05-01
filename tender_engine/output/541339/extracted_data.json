@@ -1,0 +1,512 @@
+{
+  "tender_id": "541339",
+  "invitation_ref_no": "T-1/1757 Dated: 25/01/2021",
+  "package_no": "e-GP-50/PW/Anowara/Sea-Dyke",
+  "project_code": "5-4705-5025",
+  "procuring_entity": "Chattogram O&M Division-1, BWDB",
+  "procuring_entity_short": "BWDB",
+  "executive_engineer": "Tayan Kumar Tripura",
+  "pe_address": "Bohoddharhat, Chattogram.",
+  "pe_division": "Chittagong O&M Division-1",
+  "work_name": "Slope Protection Work of Sea-Dyke from KM 34.420 to KM 34.720 = 300m. in connection with \"Rehabilitation of Coastal Polder No. 62 (Patenga), Polder No. 63/1A (Anowara), Polder No. 63/1B (Anowara & Patiya) in Chittagong District\" during the FY 2020-2021 & 2021-2022.",
+  "work_name_short": "Slope Protection Work of Sea-Dyke KM 34.420 to KM 34.720 = 300m.",
+  "location": "Anowara, Chattogram",
+  "project_name": "Rehabilitation of Costal Polder No.-62(Patenga), 63/1A(Anowara) & 63/1B(Anowara & Patiya) in Chittagong District",
+  "publication_date": "26-Jan-2021",
+  "closing_date": "25-Feb-2021",
+  "start_date": "15-Apr-2021",
+  "completion_date": "30-Jun-2022",
+  "completion_date_long": "30th June 2022",
+  "bg_validity_date": "24-August-2021",
+  "document_date": "25-02-2021",
+  "tender_security_amount": 7500000.0,
+  "tender_security_amount_words": "Seventy Five Lac",
+  "tender_security_bdt": "Tk. 75,00,000.00",
+  "liquid_assets_required_lakh": 1200.0,
+  "annual_turnover_required_lakh": 3000.0,
+  "tender_capacity_lakh": 2100.0,
+  "document_fee_bdt": 4000.0,
+  "quoted_rate_percent": -0.022552858875,
+  "departmental_estimate": 299929182.06,
+  "quoted_total": 293164921.55,
+  "general_exp_years": 5,
+  "specific_exp_contracts": 1,
+  "specific_exp_value_lakh": 1500.0,
+  "specific_exp_years": 5,
+  "specific_exp_nature": "River bank/Sea dyke protection work/Groyne/Spur etc",
+  "bank_name": "SBAC Bank Limited",
+  "bank_branch": "Gulshan Branch, Dhaka, Bangladesh",
+  "bank_guarantee_no": "",
+  "bg_date": "24.02.2021",
+  "firm_name": "M/S Hassan & Brothers",
+  "firm_address": "Mahmud Tower (9th Floor) 19, Siddique Bazar North South Road, Bongshal, Dhaka",
+  "proprietor_name": "Mahmudul Hassan",
+  "egp_email": "info@handbl.com",
+  "memo_no": "HB/4515",
+  "is_jv": false,
+  "jv_name": "",
+  "jv_date": "",
+  "jv_partners": [],
+  "jv_office_address": "",
+  "jv_phone": "",
+  "partner_in_charge_name": "",
+  "partner_in_charge_firm": "",
+  "equipment": [
+    {
+      "sl_no": 1,
+      "equipment_type": "Concrete Mixture Machine with hoper (6-8 cft. Capacity)",
+      "minimum_number": "3 Nos."
+    },
+    {
+      "sl_no": 2,
+      "equipment_type": "Concrete vibrator machine (1\" nozzle)",
+      "minimum_number": "4 Nos."
+    },
+    {
+      "sl_no": 3,
+      "equipment_type": "Water Pump machine (1 cusec capacity)",
+      "minimum_number": "5 Nos."
+    },
+    {
+      "sl_no": 4,
+      "equipment_type": "Power Driven Country Boat (25’ – 30’ long)",
+      "minimum_number": "2 Nos."
+    },
+    {
+      "sl_no": 5,
+      "equipment_type": "Generator for site electrification/Compactor/Excavator",
+      "minimum_number": "3 Each."
+    },
+    {
+      "sl_no": 6,
+      "equipment_type": "Levelling Instrument with accessories/Dump truck",
+      "minimum_number": "2 Each."
+    }
+  ],
+  "manpower": [
+    {
+      "sl_no": 1,
+      "post": "Construction Engineer/Manager",
+      "qualification": "B. Sc. in Civil Engineering",
+      "nos": "1 Person",
+      "total_exp": "5 years",
+      "similar_exp": "3 years"
+    },
+    {
+      "sl_no": 2,
+      "post": "Junior Engineer /Work Supervisor",
+      "qualification": "Diploma in Civil Engineering",
+      "nos": "2 Person",
+      "total_exp": "10 years",
+      "similar_exp": "5 years"
+    },
+    {
+      "sl_no": 3,
+      "post": "Surveyor",
+      "qualification": "Diploma in Surveying",
+      "nos": "1 Person",
+      "total_exp": "4 years",
+      "similar_exp": "2 years"
+    },
+    {
+      "sl_no": 4,
+      "post": "Work Assistant",
+      "qualification": "H.S.C.",
+      "nos": "3 Person",
+      "total_exp": "5 years",
+      "similar_exp": "2 years"
+    },
+    {
+      "sl_no": 5,
+      "post": "Mixture machine operator",
+      "qualification": "N/A",
+      "nos": "2 Person",
+      "total_exp": "4 years",
+      "similar_exp": "2 years"
+    },
+    {
+      "sl_no": 6,
+      "post": "Compactor/Excavator Driver/Caterpiller Operator",
+      "qualification": "N/A",
+      "nos": "3 Person",
+      "total_exp": "5 years",
+      "similar_exp": "3 years"
+    }
+  ],
+  "boq_items": [
+    {
+      "item_no": 1,
+      "item_code": "04-180",
+      "description": "Preparation of site; including removing soil upto 15cm depth",
+      "quantity": 12000,
+      "unit": "Sqm",
+      "bwdb_rate": 39.76,
+      "bwdb_amount": 477120,
+      "quoted_rate": 40.001,
+      "quoted_amount": 480012,
+      "percent_diff": 0.006
+    },
+    {
+      "item_no": 2,
+      "item_code": "16-220-30",
+      "description": "Earth work by carried earth (90% compaction):300m to 1.00km",
+      "quantity": 56181.43,
+      "unit": "Cum",
+      "bwdb_rate": 458.18,
+      "bwdb_amount": 25741207.6,
+      "quoted_rate": 389.001,
+      "quoted_amount": 21854632.45,
+      "percent_diff": -0.151
+    },
+    {
+      "item_no": 3,
+      "item_code": "40-550-30",
+      "description": "Supply and placing sand as filter : FM : 1.0 to 1.5",
+      "quantity": 2414.013,
+      "unit": "Cum",
+      "bwdb_rate": 1391.75,
+      "bwdb_amount": 3359702.59,
+      "quoted_rate": 1252.001,
+      "quoted_amount": 3022346.69,
+      "percent_diff": -0.1
+    },
+    {
+      "item_no": 4,
+      "item_code": "40-520-20",
+      "description": "Supply and placing jhama khoa as filter : 40mm to 20mm size",
+      "quantity": 1417.341,
+      "unit": "Cum",
+      "bwdb_rate": 4786.88,
+      "bwdb_amount": 6784641.29,
+      "quoted_rate": 4308.001,
+      "quoted_amount": 6105906.45,
+      "percent_diff": -0.1
+    },
+    {
+      "item_no": 5,
+      "item_code": "40-520-30",
+      "description": "Supply and placing jhama khoa as filter : 20mm to 5mm size",
+      "quantity": 1417.341,
+      "unit": "Cum",
+      "bwdb_rate": 5267.97,
+      "bwdb_amount": 7466509.87,
+      "quoted_rate": 4741.001,
+      "quoted_amount": 6719615.1,
+      "percent_diff": -0.1
+    },
+    {
+      "item_no": 6,
+      "item_code": "40-590",
+      "description": "Supplying & dumping/laying 2nd class brick bats",
+      "quantity": 1770.542,
+      "unit": "Cum",
+      "bwdb_rate": 4697.95,
+      "bwdb_amount": 8317917.79,
+      "quoted_rate": 4228.001,
+      "quoted_amount": 7485853.35,
+      "percent_diff": -0.1
+    },
+    {
+      "item_no": 7,
+      "item_code": "40-500-40",
+      "description": "Supply and laying geotex.filter: thick>=3.00mm,mass>=400 g/m",
+      "quantity": 26297.631,
+      "unit": "Sqm",
+      "bwdb_rate": 255.08,
+      "bwdb_amount": 6707999.72,
+      "quoted_rate": 229.001,
+      "quoted_amount": 6022183.8,
+      "percent_diff": -0.102
+    },
+    {
+      "item_no": 8,
+      "item_code": "40-230-01",
+      "description": "CC blocks (1:2:4) 40mm stone chips; 100cmx80cmx60cm",
+      "quantity": 16471,
+      "unit": "Nos.",
+      "bwdb_rate": 7325.77,
+      "bwdb_amount": 120662757.67,
+      "quoted_rate": 7737.001,
+      "quoted_amount": 127436143.47,
+      "percent_diff": 0.056
+    },
+    {
+      "item_no": 9,
+      "item_code": "40-170-80",
+      "description": "CC blocks(1:3:5.5) 40mm stone chips; 50cmx50cmx60cm",
+      "quantity": 2205,
+      "unit": "Nos.",
+      "bwdb_rate": 2123.71,
+      "bwdb_amount": 4682780.55,
+      "quoted_rate": 2285.001,
+      "quoted_amount": 5038427.21,
+      "percent_diff": 0.076
+    },
+    {
+      "item_no": 10,
+      "item_code": "40-170-20",
+      "description": "CC blocks (1:3:5.5) 40mm stone chips; 50cmx50cmx40cm",
+      "quantity": 6955,
+      "unit": "Nos.",
+      "bwdb_rate": 1424.46,
+      "bwdb_amount": 9907119.3,
+      "quoted_rate": 1530.001,
+      "quoted_amount": 10641156.96,
+      "percent_diff": 0.074
+    },
+    {
+      "item_no": 11,
+      "item_code": "40-170-90",
+      "description": "CC blocks (1:3:5.5) 40mm stone chips; 50cmx50cmx20cm",
+      "quantity": 23162,
+      "unit": "Nos.",
+      "bwdb_rate": 721.22,
+      "bwdb_amount": 16704897.64,
+      "quoted_rate": 775.001,
+      "quoted_amount": 17950573.16,
+      "percent_diff": 0.075
+    },
+    {
+      "item_no": 12,
+      "item_code": "40-270-20",
+      "description": "Labour charge in laying CC blocks : 200m to 500m",
+      "quantity": 14087.12,
+      "unit": "Cum",
+      "bwdb_rate": 2275.74,
+      "bwdb_amount": 32058622.47,
+      "quoted_rate": 1822.001,
+      "quoted_amount": 25666746.73,
+      "percent_diff": -0.199
+    },
+    {
+      "item_no": 13,
+      "item_code": "40-560",
+      "description": "Labour charge for salvaging : CC/sand cement/brick blocks",
+      "quantity": 3996.75,
+      "unit": "Cum",
+      "bwdb_rate": 990.58,
+      "bwdb_amount": 3959100.62,
+      "quoted_rate": 794.001,
+      "quoted_amount": 3173423.5,
+      "percent_diff": -0.198
+    },
+    {
+      "item_no": 14,
+      "item_code": "28-120-50",
+      "description": "Cement concrete (1:3:6): with 40mm down stone chips",
+      "quantity": 11,
+      "unit": "Cum",
+      "bwdb_rate": 13863.14,
+      "bwdb_amount": 152494.54,
+      "quoted_rate": 13864.001,
+      "quoted_amount": 152504.01,
+      "percent_diff": 0.0001
+    },
+    {
+      "item_no": 15,
+      "item_code": "40-480-20",
+      "description": "Geo Tube: Diameter= 1.25 m",
+      "quantity": 1800,
+      "unit": "m.",
+      "bwdb_rate": 1743.65,
+      "bwdb_amount": 3138570.0,
+      "quoted_rate": 1657.001,
+      "quoted_amount": 2982601.8,
+      "percent_diff": -0.05
+    },
+    {
+      "item_no": 16,
+      "item_code": "04-710",
+      "description": "Temporary lease of land for 1 (one) year",
+      "quantity": 8046.79,
+      "unit": "Sqm",
+      "bwdb_rate": 36.36,
+      "bwdb_amount": 292581.28,
+      "quoted_rate": 37.001,
+      "quoted_amount": 297739.28,
+      "percent_diff": 0.018
+    },
+    {
+      "item_no": 17,
+      "item_code": "04-700-10",
+      "description": "Site office of minimum 38 sqm plinth area",
+      "quantity": 1,
+      "unit": "Nos.",
+      "bwdb_rate": 508581.43,
+      "bwdb_amount": 508581.43,
+      "quoted_rate": 508500.001,
+      "quoted_amount": 508500.0,
+      "percent_diff": -0.0002
+    },
+    {
+      "item_no": 18,
+      "item_code": "48-100",
+      "description": "Dressing & close turfing : 200mmx200mmx75mm durba sods",
+      "quantity": 4635.48,
+      "unit": "Sqm",
+      "bwdb_rate": 33.94,
+      "bwdb_amount": 157328.19,
+      "quoted_rate": 33.501,
+      "quoted_amount": 155293.22,
+      "percent_diff": -0.013
+    },
+    {
+      "item_no": 19,
+      "item_code": "40-920",
+      "description": "Earth work in cutting and filling of eroded bank",
+      "quantity": 7685.04,
+      "unit": "Cum",
+      "bwdb_rate": 227.52,
+      "bwdb_amount": 1748500.3,
+      "quoted_rate": 168.001,
+      "quoted_amount": 1291094.41,
+      "percent_diff": -0.262
+    },
+    {
+      "item_no": 20,
+      "item_code": "56-100",
+      "description": "Earth work in box cutting : depth upto 1.00 m",
+      "quantity": 8400,
+      "unit": "Cum",
+      "bwdb_rate": 196.4,
+      "bwdb_amount": 1649760.0,
+      "quoted_rate": 140.001,
+      "quoted_amount": 1176008.4,
+      "percent_diff": -0.287
+    },
+    {
+      "item_no": 21,
+      "item_code": "56-110",
+      "description": "Construction of improved road sub-grade",
+      "quantity": 3600,
+      "unit": "Cum",
+      "bwdb_rate": 953.66,
+      "bwdb_amount": 3433176.0,
+      "quoted_rate": 954.001,
+      "quoted_amount": 3434403.6,
+      "percent_diff": 0.0004
+    },
+    {
+      "item_no": 22,
+      "item_code": "56-120-10",
+      "description": "Brick flat soling with 1st class bricks : single layer",
+      "quantity": 24000,
+      "unit": "Sqm",
+      "bwdb_rate": 467.54,
+      "bwdb_amount": 11220960.0,
+      "quoted_rate": 468.001,
+      "quoted_amount": 11232024.0,
+      "percent_diff": 0.001
+    },
+    {
+      "item_no": 23,
+      "item_code": "56-130",
+      "description": "Brick on edge soling in Herring Bone Bond (HBB)",
+      "quantity": 24000,
+      "unit": "Sqm",
+      "bwdb_rate": 751.16,
+      "bwdb_amount": 18027840.0,
+      "quoted_rate": 752.001,
+      "quoted_amount": 18048024.0,
+      "percent_diff": 0.001
+    },
+    {
+      "item_no": 24,
+      "item_code": "56-140-10",
+      "description": "Brick on end edging across the road : 75mm thick",
+      "quantity": 16000,
+      "unit": "m.",
+      "bwdb_rate": 124.19,
+      "bwdb_amount": 1987040.0,
+      "quoted_rate": 125.001,
+      "quoted_amount": 2000016.0,
+      "percent_diff": 0.007
+    },
+    {
+      "item_no": 25,
+      "item_code": "16-720-10",
+      "description": "Bulkhead/cargo/boat: within 1 km along the river",
+      "quantity": 73496.75,
+      "unit": "Cum/km",
+      "bwdb_rate": 141.8,
+      "bwdb_amount": 10421839.15,
+      "quoted_rate": 135.501,
+      "quoted_amount": 9958883.12,
+      "percent_diff": -0.044
+    },
+    {
+      "item_no": 26,
+      "item_code": "16-720-10",
+      "description": "Bulkhead/cargo/boat: 2nd km and above",
+      "quantity": 73496.75,
+      "unit": "Cum/km",
+      "bwdb_rate": 4.9,
+      "bwdb_amount": 360134.08,
+      "quoted_rate": 4.501,
+      "quoted_amount": 330808.87,
+      "percent_diff": -0.081
+    }
+  ],
+  "rate_schedule_ref": "BWDB, 2019-20 Rate Schedule",
+  "work_activities": [
+    {
+      "sl_no": "i",
+      "activity": "Site Preparation & Mobilization."
+    },
+    {
+      "sl_no": "ii",
+      "activity": "Procurement of Man power, Equipment, Materials & etc."
+    },
+    {
+      "sl_no": "iii",
+      "activity": "E/W in excavation/re-excavation of khal & foundation trench etc."
+    },
+    {
+      "sl_no": "iv",
+      "activity": "Manufacturing of C.C. Blocks"
+    },
+    {
+      "sl_no": "v",
+      "activity": "Supply of Sand Filter, Geo-Textile Filter, Khoa filter etc."
+    },
+    {
+      "sl_no": "vi",
+      "activity": "Dumping & Placing C.C Blocks"
+    },
+    {
+      "sl_no": "vii",
+      "activity": "Construction Of Herring Bone Bond (HBB) Brick Road."
+    },
+    {
+      "sl_no": "viii",
+      "activity": "Supplying, Filling & Laying Geo-Tube"
+    },
+    {
+      "sl_no": "ix",
+      "activity": "Fine dressing and close turfing of the slopes and the crest of embankment"
+    },
+    {
+      "sl_no": "x",
+      "activity": "De-mobilization & Site handover"
+    }
+  ],
+  "work_start_year": 2021,
+  "work_end_year": 2022,
+  "work_months": [
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun"
+  ]
+}

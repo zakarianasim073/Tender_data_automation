@@ -1,0 +1,95 @@
+=================================================================
+  BOQ RATE CHECK SUMMARY
+  Tender ID : 601115
+  Zone      : C
+=================================================================
+  Total items   : 25
+  MATCH         : 0
+  MISMATCH      : 0
+  MISSING       : 25
+  ABOVE SOR     : 0  (RED FLAG)
+  BELOW SOR     : 0  (CHECK)
+  Risk Level    : LOW
+-----------------------------------------------------------------
+  Total BOQ Amt : Tk.               0
+  Total Quoted  : Tk.               0
+  Total SOR Amt : Tk.               0
+  Overall Diff  : +0.00%
+=================================================================
+
+ITEMS REQUIRING ATTENTION:
+-----------------------------------------------------------------
+  [MISSING   ] #1 16-
+200        Quoted:  17611.74  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #2 16-
+150        Quoted:  20665.74  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #3 16-
+410        Quoted:   1832.40  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #4 16-
+490        Quoted:   1221.60  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #5 40-
+550        Quoted:    628.20  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #6 40-
+520        Quoted:    308.10  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #7 40-
+520        Quoted:    308.10  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #9 40-
+360        Quoted:  63101.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #10 40-
+230        Quoted:  56340.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #11 40-
+230        Quoted:  20092.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #12 40-
+230        Quoted:  65625.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #13 40-
+270        Quoted:   1375.85  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #14 40-
+270        Quoted:   1375.85  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #15 40-
+290        Quoted:   5250.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #17 48-
+100        Quoted:   3138.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #18 16-
+710        Quoted:   3850.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #19 16-
+100        Quoted:      4.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #20 4-120          Quoted:      1.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #21 4-180          Quoted:  15000.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #22 4-710          Quoted:  35200.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #23 10-
+140        Quoted:      8.00  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #24 16-
+500        Quoted:      1.67  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #25 28-
+120        Quoted:      6.99  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #26 28-
+200        Quoted:      0.33  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+  [MISSING   ] #27 36-
+150        Quoted:      8.77  SOR:      0.00  Diff:+0.0%
+             NOTE: Item code not found in SOR database
+
+=================================================================
