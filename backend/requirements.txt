@@ -10,3 +10,7 @@ Pillow==10.1.0
 docxtpl==0.16.7
 openai==1.10.0
 pyjwt==2.8.0
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+alembic==1.13.1
+pydantic-settings==2.1.0

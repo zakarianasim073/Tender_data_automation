@@ -1,18 +1,22 @@
 from datetime import datetime
-import json
-from pathlib import Path
+from sqlalchemy.orm import Session
+from ..models.database_models import AuditLog
+import logging
 
+logger = logging.getLogger("audit")
 
-def build_audit(event: str, actor: str, details: dict):
-    payload = {
-        "timestamp": datetime.utcnow().isoformat(),
-        "event": event,
-        "actor": actor,
-        "details": details,
-    }
-    out_dir = Path("backend/outputs")
-    out_dir.mkdir(parents=True, exist_ok=True)
-    file = out_dir / f"audit_{datetime.utcnow().strftime('%Y%m%d')}.jsonl"
-    with file.open("a", encoding="utf-8") as f:
-        f.write(json.dumps(payload, ensure_ascii=False) + "\n")
-    return payload
+def build_audit(db: Session, event: str, actor: str, details: dict):
+    try:
+        db_audit = AuditLog(
+            event=event,
+            actor=actor,
+            details=details
+        )
+        db.add(db_audit)
+        db.commit()
+        db.refresh(db_audit)
+        return db_audit
+    except Exception as e:
+        logger.error(f"Failed to write audit log: {e}")
+        # Fallback to local logging if DB fails
+        return {"error": str(e), "event": event}
