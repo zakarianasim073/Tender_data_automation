@@ -10,10 +10,14 @@ class Settings(BaseSettings):
     JWT_SECRET: str = "super-secret-boq-ai-token-2024"
     JWT_ALGORITHM: str = "HS256"
     OPENAI_API_KEY: Optional[str] = None
+    DATABASE_URL: str = "postgresql://user:password@localhost:5432/boq_ai"
     FRONTEND_URL: str = "https://boq-ai-frontend-site.onrender.com"
+
     class Config:
         env_file = ".env"
 
 @lru_cache()
-def get_settings(): return Settings()
+def get_settings():
+    return Settings()
+
 settings = get_settings()

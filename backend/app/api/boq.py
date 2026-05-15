@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
 from typing import List, Optional
 
 router = APIRouter()
@@ -8,6 +8,11 @@ class ItemData(BaseModel):
     item: str = Field(..., min_length=1)
     rate: float = Field(..., ge=0)
     quantity: Optional[float] = Field(default=1.0, ge=0)
+
+    @field_validator("item")
+    @classmethod
+    def strip_item(cls, value: str) -> str:
+        return value.strip()
 
 class BOQRequest(BaseModel):
     boq: List[ItemData]
@@ -27,4 +32,4 @@ def visual_diff(data: BOQRequest):
         else:
             status, color = "match", "#86efac"
         result.append({"item": b.item.strip(), "boq_rate": b.rate, "sor_rate": s.rate if s else None, "status": status, "color": color})
-    return {"success": True, "data": result}
+    return {"success": True, "count": len(result), "data": result}
